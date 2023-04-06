@@ -1,0 +1,1 @@
+INSERT INTO persons VALUES('Quang', 'Duong', 'fake@fake.com', 'Male', 'Foodie', 18, 'Somewhere Street', 'Seattle', 'Washington', '00000', '123-123-1234');

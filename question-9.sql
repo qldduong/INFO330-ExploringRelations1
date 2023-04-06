@@ -1,0 +1,1 @@
+DELETE from persons where city = 'Kansas City' OR city = 'Pittsburgh' OR city = 'Jacksonville';
